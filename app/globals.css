@@ -3,6 +3,10 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --color-forest-green: #0F5953;
+  --color-saffron-gold: #E5B80B;
+  --color-neutral-bg: #F9FAFB;
+  --color-text: #111827;
 }
 
 @theme inline {
